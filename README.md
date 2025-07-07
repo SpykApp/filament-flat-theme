@@ -177,3 +177,17 @@ https://filamentphp.com/docs/3.x/panels/themes#creating-a-custom-theme
 
 ✅ That’s it, you’re now using the **Filament Flat Theme**.
 
+
+## Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
+
+## Credits
+
+- [Sanchit Patil](https://github.com/sanchitspatil)
+- [All Contributors](../../contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
