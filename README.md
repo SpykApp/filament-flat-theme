@@ -7,7 +7,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/spykapp/filament-flat-theme/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/spykapp/filament-flat-theme/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/spykapp/filament-flat-theme.svg?style=flat-square)](https://packagist.org/packages/spykapp/filament-flat-theme)
 
-A simple theme for FilamentPHP with custom user menu in sidebar
+A simple theme for FilamentPHP based on a Flat design.
 
 > ⚠️ **Note:** Filament Flat Theme is supported only on **Filament V3** currently.
 
