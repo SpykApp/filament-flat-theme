@@ -9,6 +9,9 @@
 
 A simple theme for FilamentPHP with custom user menu in sidebar
 
+> ⚠️ **Note:** Filament Flat Theme is supported only on **Filament V3** currently.
+
+
 ## Screenshots
 
 #### Dashboard
@@ -23,12 +26,12 @@ A simple theme for FilamentPHP with custom user menu in sidebar
   <tbody>
     <tr>
       <td>
-        <a href="https://ibb.co/Y4JL2Qh9">
+        <a href="https://ibb.co/Y4JL2Qh9" target="_blank">
             <img src="https://i.ibb.co/DPmR4WQX/dashboard-l.png" width="100%" alt="Dashboard Light" />
         </a>
       </td>
       <td>
-        <a href="https://ibb.co/x88nmjsT">
+        <a href="https://ibb.co/x88nmjsT" target="_blank">
             <img src="https://i.ibb.co/QjjW8Ncw/dashboard-d.png" width="100%" alt="Dashboard Dark" />
         </a>
       </td>
@@ -48,12 +51,12 @@ A simple theme for FilamentPHP with custom user menu in sidebar
   <tbody>
     <tr>
       <td>
-        <a href="https://ibb.co/3y8KxrZv">
+        <a href="https://ibb.co/3y8KxrZv" target="_blank">
           <img src="https://i.ibb.co/qM46HyQC/customers-l.png" width="100%" alt="Customers Light" />
         </a>
       </td>
       <td>
-        <a href="https://ibb.co/LXWSBZcc">
+        <a href="https://ibb.co/LXWSBZcc" target="_blank">
           <img src="https://i.ibb.co/7d5vB1ZZ/customers-d.png" width="100%" alt="Customers Dark" />
         </a>
       </td>
@@ -73,12 +76,12 @@ A simple theme for FilamentPHP with custom user menu in sidebar
   <tbody>
     <tr>
       <td>
-        <a href="https://ibb.co/wNvDHvrQ">
+        <a href="https://ibb.co/wNvDHvrQ" target="_blank">
           <img src="https://i.ibb.co/FbPGvPqY/form-l.png" width="100%" alt="Form Light" />
         </a>
       </td>
       <td>
-        <a href="https://ibb.co/hJDTrn4N">
+        <a href="https://ibb.co/hJDTrn4N" target="_blank">
           <img src="https://i.ibb.co/KpF8BQfg/form-d.png" width="100%" alt="Form Dark" />
         </a>
       </td>
@@ -98,12 +101,12 @@ A simple theme for FilamentPHP with custom user menu in sidebar
   <tbody>
     <tr>
       <td>
-        <a href="https://ibb.co/sYNTbnt">
+        <a href="https://ibb.co/sYNTbnt" target="_blank">
           <img src="https://i.ibb.co/ZDFQG5N/orders-l.png" width="100%" alt="Orders Light" />
         </a>
       </td>
       <td>
-        <a href="https://ibb.co/hFKm9z7y">
+        <a href="https://ibb.co/hFKm9z7y" target="_blank">
           <img src="https://i.ibb.co/Wvc25Jx6/orders-d.png" width="100%" alt="Orders Dark" />
         </a>
       </td>
