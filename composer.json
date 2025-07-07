@@ -1,0 +1,40 @@
+{
+    "name": "spykapp/filament-flat-theme",
+    "type": "library",
+    "description": "A simple theme for FilamentPHP based on a Flat design.",
+    "keywords": [
+        "php",
+        "laravel",
+        "filament",
+        "filament-theme",
+        "filament-flat-theme"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SpykApp\\FilamentFlatTheme\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SpykApp\\FilamentFlatTheme\\FilamentFlatThemeServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Sanchit Patil",
+            "email": "open@spyk.app"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "filament/filament": "^3.0"
+    }
+}
