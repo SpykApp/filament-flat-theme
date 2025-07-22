@@ -2,9 +2,20 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/database/factories" isTestSource="false" packagePrefix="SpykApp\FilamentFlatTheme\Database\Factories\" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="SpykApp\FilamentFlatTheme\" />
-      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="SpykApp\FilamentFlatTheme\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/chillerlan/php-qrcode" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/chillerlan/php-settings-container" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/filament/schemas" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/league/uri-components" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nette/php-generator" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phiki/phiki" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pragmarx/google2fa" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pragmarx/google2fa-qrcode" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/scrivo/highlight.php" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/shiki-php" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ueberdosis/tiptap-php" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
