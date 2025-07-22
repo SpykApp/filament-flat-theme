@@ -1,11 +1,20 @@
-![Screenshot](https://banners.beyondco.de/Filament%20Flat%20Theme.png?theme=light&packageManager=composer+require&packageName=spykapp%2Ffilament-flat-theme&pattern=architect&style=style_1&description=A+simple+theme+for+FilamentPHP+based+on+a+Flat+design.&md=1&showWatermark=0&fontSize=100px&images=color-swatch)
+![Screenshot](/art/flat-theme.png)
+
+<p align="center">
+   <a href="https://packagist.org/packages/spykapp/filament-flat-theme">
+    <img src="https://img.shields.io/packagist/v/spykapp/filament-flat-theme.svg?style=for-the-badge" alt="Packagist Version">
+   </a>
+   <a href="https://packagist.org/packages/spykapp/filament-flat-theme">
+    <img src="https://img.shields.io/packagist/dt/spykapp/filament-flat-theme.svg?style=for-the-badge" alt="Total Downloads">
+   </a>
+   <a href="https://laravel.com/docs/12.x"><img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 12"></a>
+   <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php" alt="PHP 8.3"></a>
+   <a href="https://github.com/spykapp/filament-flat-theme/blob/main/LICENSE.md">
+     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
+   </a>
+</p>
 
 # Filament Flat Theme
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/spykapp/filament-flat-theme.svg?style=flat-square)](https://packagist.org/packages/spykapp/filament-flat-theme)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/spykapp/filament-flat-theme/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/spykapp/filament-flat-theme/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/spykapp/filament-flat-theme/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/spykapp/filament-flat-theme/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/spykapp/filament-flat-theme.svg?style=flat-square)](https://packagist.org/packages/spykapp/filament-flat-theme)
 
 A simple theme for FilamentPHP based on a Flat design.
 

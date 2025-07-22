@@ -5,4 +5,8 @@
       <list />
     </option>
   </component>
+  <component name="LaravelIdeaMainSettings">
+    <option name="appDirectory" value="src" />
+    <option name="frameworkFound" value="true" />
+  </component>
 </project>
