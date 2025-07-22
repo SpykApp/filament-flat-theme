@@ -18,8 +18,6 @@
 
 A simple theme for FilamentPHP based on a Flat design.
 
-> ⚠️ **Note:** Filament Flat Theme is supported only on **Filament V3** currently.
-
 
 ## Screenshots
 
@@ -156,8 +154,32 @@ composer require spykapp/filament-flat-theme
 ```
 After installing the package, you’ll need to set up a custom Filament theme (if you haven’t already). Follow the official guide here:
 
-📘 **Creating a Custom Theme**  
-https://filamentphp.com/docs/3.x/panels/themes#creating-a-custom-theme
+📘 **Creating a Custom Theme** 
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col" width="1000px">v3</th>
+      <th scope="col" width="1000px">v4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://filamentphp.com/docs/3.x/panels/themes#creating-a-custom-theme
+" target="_blank">
+                    https://filamentphp.com/docs/3.x/panels/themes#creating-a-custom-theme
+        </a>
+      </td>
+      <td>
+        <a href="https://filamentphp.com/docs/4.x/styling/overview#creating-a-custom-theme" target="_blank">
+            https://filamentphp.com/docs/4.x/styling/overview#creating-a-custom-theme
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -166,21 +188,36 @@ https://filamentphp.com/docs/3.x/panels/themes#creating-a-custom-theme
 1. Open your `theme.css` file.
 2. Replace this line:
 
-    ```css
-    @import '/vendor/filament/filament/resources/css/theme.css';
-    ```
+
+**Filament v4 :**
+
+```css
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+```
+
+with:
+
+```css
+@import '../../../../vendor/spykapp/filament-flat-theme/resources/css/theme.css';
+```
+
+**Filament v3 :**
+
+```css
+@import '/vendor/filament/filament/resources/css/theme.css';
+```
 
    with:
 
-    ```css
-    @import '/vendor/spykapp/filament-flat-theme/resources/css/theme.css';
-    ```
+```css
+@import '/vendor/spykapp/filament-flat-theme/resources/css/theme.css';
+```
 
 3. Then run the build process:
 
-    ```bash
-    npm run build
-    ```
+```bash
+npm run build
+```
 
 ---
 
